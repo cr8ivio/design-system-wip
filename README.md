@@ -1,4 +1,4 @@
-![Cover](assets/cr8ivio-desystem-repo-cover.png)
+![Cover](assets/root-repo-cover.png)
 
 ## Motivation
 `TODO`
